@@ -13,4 +13,4 @@ I'm open to collaborating on any interesting **User Experience Design**, **Appli
 Feel free to reach out to me at: [hariestomxavier@gmail.com](mailto:hariestomxavier@gmail.com)
 
 ### ⚡ Fun Fact
-I love exploring how data science and web design can intersect to create beautiful, data-driven applications!
+I love exploring how User Interaction and web design can intersect to create beautiful, data-driven applications!
